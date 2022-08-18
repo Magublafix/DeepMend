@@ -62,7 +62,7 @@ Run the build script with 4 arguments:
 The following: 
 ```
 ./scripts/build.sh \
-    $DATADIR/ShapeNetCore.v2/03797390 \
+    $DATADIR/ShapeNetCore.v2 \
     $DATADIR/ShapeNetCore.v2/mugs_split.json \
     $DATADIR/ShapeNetCore.v2/mugs \
     1
